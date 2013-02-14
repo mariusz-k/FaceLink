@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face Link</string>
+    <string name="disc">Aby aktywować aplikacje trzeba po klikniecią na link z facebooka wyświtli się okno wyboru domyślenj aplikacji. Zaznaczamy “Face Link” jako domyślna aplikacja i od teraz linki z facebooka nie będą blokować zainstalowanych aplikacji :)</string>
+</resources>
